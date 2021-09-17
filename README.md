@@ -11,16 +11,22 @@ This is a repository of [Free](https://en.wikipedia.org/wiki/Free_software) and 
 * Grendel
 * XCat
 * Warewulf
+* Rocks
+* Cobbler
 
 ## Workload Managers
 * Slurm `OSS`
-* LSF
+* LSF/Spectrum Scale
 * Moab
 * OpenTorque
-* OpenPBS
 * OpenLava
+* UGE/SGE 
 * [Volcano](https://volcano.sh/) - Volcano is a batch system built on Kubernetes. `Apache-2.0`
+* Maui
+* [Kube Batch](https://github.com/kubernetes-sigs/kube-batch) - A batch scheduler of kubernetes for high performance workload, e.g. AI/ML, BigData, HPC `Apache-2.0`
 
+## Resource Manager
+* OpenPBS
 
 ## Ppelines
 * [Nextflow](nextflow.io) - Data drive computational pipelines. `Apache-2.0`
@@ -80,16 +86,18 @@ This is a repository of [Free](https://en.wikipedia.org/wiki/Free_software) and 
 * Anaconda
 * Mamba
 
-## Filesystems
+## Parallel Filesystems
 * GPFS
 * Quobyte
 * Ceph
 * Weka
 * Lustre/Exascaler
+* BeeGFS
 
 ## Programming Languages
 * [Julia](https://julialang.org/) - Julia is a high-level, high-performance dynamic language for technical computing. `MIT`
 * [Futhark](futhark-lang.org) - Futhark is a purely functional data-parallel programming language in the ML family. `isc`
+* Chapel
 
 ## Journals
 * Journal of Super Computing
@@ -114,6 +122,9 @@ This is a repository of [Free](https://en.wikipedia.org/wiki/Free_software) and 
 * [Pearc]()
 * [Supercomputing (SC)]()
 * [Supercomputing International (SC)]()
+
+## Training
+* [Exascale Computing Project Training](https://www.exascaleproject.org/training-events/)
 
 ## References
 * file:///tmp/Install_guide-Centos8-Warewulf-SLURM-2.3-aarch64.pdf
