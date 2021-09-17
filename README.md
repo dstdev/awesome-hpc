@@ -8,9 +8,9 @@ This is a repository of [Free](https://en.wikipedia.org/wiki/Free_software) and 
 
 
 ## Provisioning
-* Grendel
+* [Grendel](https://grendel.readthedocs.io/) | [Repo](https://github.com/ubccr/grendel) - Bare Metal Provisioning system for HPC Linux clusters `GPL-3`
 * XCat
-* Warewulf
+* [Warewulf](https://warewulf.hpcng.org/) | [Repo](https://github.com/hpcng/warewulf) - Warewulf is a stateless and diskless container operating system provisioning system for large clusters of bare metal and/or virtual systems. `BSD-3`
 * Rocks
 * Cobbler
 
@@ -26,14 +26,15 @@ This is a repository of [Free](https://en.wikipedia.org/wiki/Free_software) and 
 * [Kube Batch](https://github.com/kubernetes-sigs/kube-batch) - A batch scheduler of kubernetes for high performance workload, e.g. AI/ML, BigData, HPC `Apache-2.0`
 
 ## Resource Manager
-* OpenPBS
+* [OpenPBS](https://www.openpbs.org/) | [Repo](https://github.com/openpbs/openpbs)- OpenPBS® software optimizes job scheduling and workload management in high-performance computing (HPC) environments `other`
 
-## Ppelines
+## Pipelines
 * [Nextflow](nextflow.io) - Data drive computational pipelines. `Apache-2.0`
+* [Cromwell](https://cromwell.readthedocs.io/en/stable/) | [Repo](https://github.com/broadinstitute/cromwell)- Scientific workflow engine designed for simplicity & scalability.  `BSD-3`
 
 ## Applications
-* Spack
-* EasyBuild
+* [Spack](spack.io) | [Repo](https://github.com/spack/spack) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers. `other`
+* [EasyBuild](https://easybuild.io/) | [Repo](https://github.com/easybuilders/easybuild) -  EasyBuild - building software with ease `GPL-2` 
 
 ## Compilers
 * Nvidia
@@ -44,7 +45,7 @@ This is a repository of [Free](https://en.wikipedia.org/wiki/Free_software) and 
 
 ## MPI
 * OpenMPI
-* MPICH
+* [MPICH](mpich.org) | [Repo](https://github.com/pmodels/mpich) - MPICH is a high-performance and widely portable implementation of the MPI-3.1 standard. `other`
 * MVAPICH
 * Intel-MPI
 
@@ -62,6 +63,7 @@ This is a repository of [Free](https://en.wikipedia.org/wiki/Free_software) and 
 
 ## Miscellaneous
 * OpenOnDemand
+* XDMod
 
 ## Performance
 * TotalView
@@ -79,12 +81,17 @@ This is a repository of [Free](https://en.wikipedia.org/wiki/Free_software) and 
 * Charliecloud https://hpc.github.io/charliecloud/
 * Docker
 * [uDocker](https://github.com/indigo-dc/udocker)
+* [Shifter](https://www.nersc.gov/research-and-development/user-defined-images/) | [Repo](https://github.com/NERSC/shifter) -  Shifter - Linux Containers for HPC `other`
+* [HPC Container Maker](https://github.com/NVIDIA/hpc-container-maker) - HPC Container Maker is an open source tool to make it easier to generate container specification files. `Apache-2.0`
 
 ## Environment Management
-* Lmod
-* Modules
+* [Lmod](https://lmod.readthedocs.io/en/latest/) | [Repo](https://github.com/TACC/Lmod) - Lmod: An Environment Module System based on Lua, Reads TCL Modules, Supports a Software Hierarchy `other`
+* [Environment Modules](https://modules.readthedocs.io/en/latest/) | [Repo](https://github.com/cea-hpc/modules) - Environment Modules: provides dynamic modification of a user's environment  `GPL-2`
 * Anaconda
 * Mamba
+
+## Visualization
+* [Visit](https://visit-dav.github.io/visit-website/) | [Repo](https://github.com/visit-dav/visit) - VisIt - Visualization and Data Analysis for Mesh-based Scientific Data. `BSD-3`
 
 ## Parallel Filesystems
 * GPFS
@@ -93,6 +100,7 @@ This is a repository of [Free](https://en.wikipedia.org/wiki/Free_software) and 
 * Weka
 * Lustre/Exascaler
 * BeeGFS
+* [OrangeFS](http://www.orangefs.org/) | [Repo](https://github.com/waltligon/orangefs) - OrangeFS is a next generation parallel file system for Linux clusters. `other`
 
 ## Programming Languages
 * [Julia](https://julialang.org/) - Julia is a high-level, high-performance dynamic language for technical computing. `MIT`
@@ -119,9 +127,10 @@ This is a repository of [Free](https://en.wikipedia.org/wiki/Free_software) and 
 
 ## Conferences
 
-* [Pearc]()
-* [Supercomputing (SC)]()
-* [Supercomputing International (SC)]()
+* [Pearc](https://pearc.acm.org/) - Practice & Experience in Advanced Research Computing
+* [Supercomputing (SC)](supercomputing.org) - The International Conference for High Performance Computing, Networking, Storage, and Analysis
+* [Supercomputing International (ISC)](isc-hpc.com) - The International Conference for High Performance Computing, Networking, Storage, and Analysis
+* [CCGrid](https://dl.acm.org/conference/ccgrid) - IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing
 
 ## Training
 * [Exascale Computing Project Training](https://www.exascaleproject.org/training-events/)
