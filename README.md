@@ -52,6 +52,7 @@ This is a repository of [Free](https://en.wikipedia.org/wiki/Free_software) and 
 
 ## Parallel Computing
 * [ArrayFire](https://arrayfire.org/docs/index.htm) - A general purpose tensor library that simplifies the process of software development for parallel architectures. `other`
+* [OpenMP](https://www.openmp.org/) | OpenMP is an application programming interface that supports multi-platform shared-memory multiprocessing programming. `other`
 
 ## Benchmark
 * [OSU Benchmarks](https://mvapich.cse.ohio-state.edu/benchmarks/) - A collection of benchmarking tools for MPI developed by Ohio State University. `other`
