@@ -13,6 +13,8 @@ This is a repository of [Free](https://en.wikipedia.org/wiki/Free_software) and 
 * [Warewulf](https://warewulf.hpcng.org/) | [Repo](https://github.com/hpcng/warewulf) - Warewulf is a stateless and diskless container operating system provisioning system for large clusters of bare metal and/or virtual systems. `BSD-3`
 * [Rocks](http://www.rocksclusters.org/) - A Linux distribution for developing Linux clusters `other`
 * [Cobbler](https://cobbler.github.io/) | [Repo](https://github.com/cobbler/cobbler) - Cobbler is a Linux installation server that allows for rapid setup of network installation environments. `GPL-2.0`
+* [Bright](https://www.nvidia.com/en-us/data-center/bright-cluster-manager/) - Bright Cluster Manager allows administrator to quickly build and manage heterogeneous clusters. `Proprietary`
+* [Scyld](https://www.penguinsolutions.com/computing/products/software/scyld-clusterware/) - Scyld Clusterware Scyld ClusterWare is developed based on the continuing evolution of Beowulf clusters first developed at NASA in the 1990s. `Proprietary`
 
 ## Workload Managers
 * [Slurm](https://slurm.schedmd.com/documentation.html) | [Repo](https://github.com/SchedMD/slurm) - A free and open source job scheduler `OSS`
@@ -54,7 +56,7 @@ This is a repository of [Free](https://en.wikipedia.org/wiki/Free_software) and 
 * [ArrayFire](https://arrayfire.org/docs/index.htm) - A general purpose tensor library that simplifies the process of software development for parallel architectures. `other`
 * [OpenMP](https://www.openmp.org/) | OpenMP is an application programming interface that supports multi-platform shared-memory multiprocessing programming. `other`
 
-## Benchmark
+## Benchmarking
 * [OSU Benchmarks](https://mvapich.cse.ohio-state.edu/benchmarks/) - A collection of benchmarking tools for MPI developed by Ohio State University. `other`
 * [Intel MPI Benchmarks](https://software.intel.com/content/www/us/en/develop/articles/intel-mpi-benchmarks.html) - A set of benchmarks developed by Intel for use with their Intel MPI. `other`
 * [HPCC Systems](https://hpccsystems.com/) | [Repo](https://github.com/hpcc-systems/HPCC-Platform) - HPCC Systems (High Performance Computing Cluster) is an open source, massive parallel-processing computing platform for big data processing and analytics. `other`
@@ -66,6 +68,7 @@ This is a repository of [Free](https://en.wikipedia.org/wiki/Free_software) and 
 ## Miscellaneous
 * [OpenOnDemand](https://openondemand.org/) | [Repo](https://github.com/OSC/openondemand.org) - Open OnDemand helps computational researchers and students efficiently utilize remote computing resources by making them easy to access from any device. `MIT`
 * [Open XDMod](https://open.xdmod.org) | [Repo](https://github.com/ubccr/xdmod/) - Open XDMoD is an open source tool to facilitate the management of high performance computing resources. `LGPL-3`
+* [Coldfront](https://coldfront.readthedocs.io/en/latest/) | [Repo](https://github.com/ubccr/coldfront) - ColdFront is an open source resource allocation system designed to provide a central portal for administration, reporting, and measuring scientific impact of HPC resources. `GPL-3`
 
 ## Performance
 * [TotalView](https://totalview.io/products/totalview) - TotalView is a debugging tool for HPC applications. `Proprietary`
@@ -95,6 +98,7 @@ This is a repository of [Free](https://en.wikipedia.org/wiki/Free_software) and 
 
 ## Visualization
 * [Visit](https://visit-dav.github.io/visit-website/) | [Repo](https://github.com/visit-dav/visit) - VisIt - Visualization and Data Analysis for Mesh-based Scientific Data. `BSD-3`
+* [Paraview](https://www.paraview.org/) | [Repo](https://github.com/Kitware/ParaView) - ParaView is an open-source, multi-platform data analysis and visualization application based on Visualization Toolkit (VTK). `ParaView License Version 1.2`
 
 ## Parallel Filesystems
 * [GPFS](https://www.ibm.com/docs/en/gpfs/4.1.0.4?topic=guide-introducing-general-parallel-file-system) - GPFS is a high-performance clustered file system software developed by IBM. `Proprietary`
@@ -104,6 +108,7 @@ This is a repository of [Free](https://en.wikipedia.org/wiki/Free_software) and 
 * [Lustre/Exascaler](https://www.lustre.org/) | [Repo](https://git.whamcloud.com/fs/lustre-release.git) - Lustre is an open-source, distributed parallel file system software platform designed for scalability, high-performance, and high-availability. `other`
 * [BeeGFS](https://www.beegfs.io/c/) - BeeGFS is a hardware-independent POSIX parallel file system developed with a strong focus on performance and designed for ease of use, simple installation, and management. `Proprietary`
 * [OrangeFS](http://www.orangefs.org/) | [Repo](https://github.com/waltligon/orangefs) - OrangeFS is a next generation parallel file system for Linux clusters. `other`
+* [MooseFS](https://moosefs.com/) | [Repo](https://github.com/moosefs/moosefs) - Moose File System is an Open-source, POSIX-compliant distributed file system developed by Core Technology. `GPL-2.0`
 
 ## Programming Languages
 * [Julia](https://julialang.org/) - Julia is a high-level, high-performance dynamic language for technical computing. `MIT`
