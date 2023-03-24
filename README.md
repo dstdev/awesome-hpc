@@ -64,6 +64,7 @@ This is a repository of [Free](https://en.wikipedia.org/wiki/Free_software) and 
 * [IOzone](https://www.iozone.org/) - IOzone is a filesystem benchmark tool. `OSS`
 * [IOR](https://www.vi4io.org/tools/benchmarks/ior) - Interleaved or Random is a useful benchmarking tool for testing parallel filesystems. `other`
 * [MDtest](https://www.vi4io.org/tools/benchmarks/mdtest) - MDtest is an MPI-based application for evaluating the metadata performance of a file system `other`
+* [FIO](https://fio.readthedocs.io/en/latest/fio_doc.html) | [Repo[(https://git.kernel.dk/cgit/fio/) - Flexible I/O is an advanced disk benchmark that depends upon the kernel's AIO access library. `GPL-2`
 
 ## Miscellaneous
 * [OpenOnDemand](https://openondemand.org/) | [Repo](https://github.com/OSC/openondemand.org) - Open OnDemand helps computational researchers and students efficiently utilize remote computing resources by making them easy to access from any device. `MIT`
