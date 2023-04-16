@@ -3,7 +3,7 @@
 
 [High Performance Computing (HPC)](https://en.wikipedia.org/wiki/Supercomputer) most generally refers to the practice of aggregating computing power in a way that delivers much higher performance than one could get out of a typical desktop computer or workstation in order to solve large problems in science, engineering, or business.
 
-This is a repository of [Free](https://en.wikipedia.org/wiki/Free_software) and Non-Free tools for use in HPC.
+This is a repository of [Free](https://en.wikipedia.org/wiki/Free_software) and Non-Free tools and resources for use in HPC.
 
 
 
@@ -141,6 +141,9 @@ This is a repository of [Free](https://en.wikipedia.org/wiki/Free_software) and 
 * [Supercomputing (SC)](supercomputing.org) - The International Conference for High Performance Computing, Networking, Storage, and Analysis
 * [Supercomputing International (ISC)](isc-hpc.com) - The International Conference for High Performance Computing, Networking, Storage, and Analysis
 * [CCGrid](https://dl.acm.org/conference/ccgrid) - IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing
+
+## User Groups
+* [MVAPICH](https://mug.mvapich.cse.ohio-state.edu/) - The MUG conference provides an open forum for all attendees (users, system administrators, researchers, engineers, and students) to discuss and share their knowledge on using MVAPICH libraries.
 
 ## Training
 * [Exascale Computing Project Training](https://www.exascaleproject.org/training-events/)
