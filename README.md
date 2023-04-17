@@ -71,14 +71,14 @@ This is a repository of [Free](https://en.wikipedia.org/wiki/Free_software) and 
 * [OpenOnDemand](https://openondemand.org/) | [Repo](https://github.com/OSC/openondemand.org) - Open OnDemand helps computational researchers and students efficiently utilize remote computing resources by making them easy to access from any device. `MIT`
 * [Open XDMod](https://open.xdmod.org) | [Repo](https://github.com/ubccr/xdmod/) - Open XDMoD is an open source tool to facilitate the management of high performance computing resources. `LGPL-3`
 * [Coldfront](https://coldfront.readthedocs.io/en/latest/) | [Repo](https://github.com/ubccr/coldfront) - ColdFront is an open source resource allocation system designed to provide a central portal for administration, reporting, and measuring scientific impact of HPC resources. `GPL-3`
+* [Pavilion2](https://pavilion2.readthedocs.io/) | [Repo](https://github.com/hpc/pavilion2) - Pavilion is a Python 3 (3.6+) based framework for running and analyzing tests targeting HPC systems. `other`
 
 ## Performance
 * [TotalView](https://totalview.io/products/totalview) - TotalView is a debugging tool for HPC applications. `Proprietary`
 * [Tau](https://www.cs.uoregon.edu/research/tau/home.php) - TAU Performance System® is a portable profiling and tracing toolkit for performance analysis of parallel programs written in Fortran, C, C++, UPC, Java, Python. `other`
 * [Valgrind](https://www.valgrind.org/) | [Repo](https://sourceware.org/git/?p=valgrind.git) - Valgrind is a tool designed to profile programs to determine memory leaks. `GPL-2`
 * [Paraver](https://tools.bsc.es/paraver) - Paraver is a very flexible data browser that is part of the CEPBA-Tools toolkit. ``
-* Performance Application Programming Interface. `LGPL`
-* [PAPI](http://icl.cs.utk.edu/papi) | [Repo](https://bitbucket.org/icl/papi/src/master/) - PAPI is a performance analysis tool. `other`
+* [PAPI](http://icl.cs.utk.edu/papi) | [Repo](https://bitbucket.org/icl/papi/src/master/) - Performance Application Programming Interface (PAPI) is a performance analysis tool. `other`
 
 ## Parallel Shells
 * [pdsh](https://linux.die.net/man/1/pdsh) | [Repo](https://github.com/chaos/pdsh) - pdsh runs terminal commands across multiple hosts in parallel. `GPL-2`
