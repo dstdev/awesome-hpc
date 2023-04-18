@@ -1,3 +1,36 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Awesome HPC](#awesome-hpc)
+  - [Table of Contents](#table-of-contents)
+  - [Provisioning](#provisioning)
+  - [Workload Managers](#workload-managers)
+  - [Resource Manager](#resource-manager)
+  - [Pipelines](#pipelines)
+  - [Applications](#applications)
+  - [Compilers](#compilers)
+  - [MPI](#mpi)
+  - [Parallel Computing](#parallel-computing)
+  - [Benchmarking](#benchmarking)
+  - [Miscellaneous](#miscellaneous)
+  - [Performance](#performance)
+  - [Parallel Shells](#parallel-shells)
+  - [Containers](#containers)
+  - [Environment Management](#environment-management)
+  - [Visualization](#visualization)
+  - [Parallel Filesystems](#parallel-filesystems)
+  - [Programming Languages](#programming-languages)
+  - [Journals](#journals)
+  - [Podcasts](#podcasts)
+  - [Blogs](#blogs)
+  - [Conferences](#conferences)
+  - [User Groups](#user-groups)
+  - [Training](#training)
+  - [References](#references)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Awesome HPC
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
@@ -5,7 +38,35 @@
 
 This is a repository of [Free](https://en.wikipedia.org/wiki/Free_software) and Non-Free tools and resources for use in HPC.
 
-
+## Table of Contents
+<details>
+  <summary><b>(click to expand)</b></summary>
+- [Awesome HPC](#awesome-hpc)
+  - [Provisioning](#provisioning)
+  - [Workload Managers](#workload-managers)
+  - [Resource Manager](#resource-manager)
+  - [Pipelines](#pipelines)
+  - [Applications](#applications)
+  - [Compilers](#compilers)
+  - [MPI](#mpi)
+  - [Parallel Computing](#parallel-computing)
+  - [Benchmarking](#benchmarking)
+  - [Miscellaneous](#miscellaneous)
+  - [Performance](#performance)
+  - [Parallel Shells](#parallel-shells)
+  - [Containers](#containers)
+  - [Environment Management](#environment-management)
+  - [Visualization](#visualization)
+  - [Parallel Filesystems](#parallel-filesystems)
+  - [Programming Languages](#programming-languages)
+  - [Journals](#journals)
+  - [Podcasts](#podcasts)
+  - [Blogs](#blogs)
+  - [Conferences](#conferences)
+  - [User Groups](#user-groups)
+  - [Training](#training)
+  - [References](#references)
+</details>
 
 ## Provisioning
 * [Grendel](https://grendel.readthedocs.io/) | [Repo](https://github.com/ubccr/grendel) - Bare Metal Provisioning system for HPC Linux clusters `GPL-3`
@@ -66,6 +127,7 @@ This is a repository of [Free](https://en.wikipedia.org/wiki/Free_software) and 
 * [IOR](https://www.vi4io.org/tools/benchmarks/ior) - Interleaved or Random is a useful benchmarking tool for testing parallel filesystems. `other`
 * [MDtest](https://www.vi4io.org/tools/benchmarks/mdtest) - MDtest is an MPI-based application for evaluating the metadata performance of a file system `other`
 * [FIO](https://fio.readthedocs.io/en/latest/fio_doc.html) | [Repo[(https://git.kernel.dk/cgit/fio/) - Flexible I/O is an advanced disk benchmark that depends upon the kernel's AIO access library. `GPL-2`
+* [elbencho](https://github.com/breuner/elbencho) - A distributed storage benchmark for files, objects & blocks with support for GPUs. `GPL-3`
 
 ## Miscellaneous
 * [OpenOnDemand](https://openondemand.org/) | [Repo](https://github.com/OSC/openondemand.org) - Open OnDemand helps computational researchers and students efficiently utilize remote computing resources by making them easy to access from any device. `MIT`
