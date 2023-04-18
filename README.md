@@ -1,36 +1,3 @@
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
-
-- [Awesome HPC](#awesome-hpc)
-  - [Table of Contents](#table-of-contents)
-  - [Provisioning](#provisioning)
-  - [Workload Managers](#workload-managers)
-  - [Resource Manager](#resource-manager)
-  - [Pipelines](#pipelines)
-  - [Applications](#applications)
-  - [Compilers](#compilers)
-  - [MPI](#mpi)
-  - [Parallel Computing](#parallel-computing)
-  - [Benchmarking](#benchmarking)
-  - [Miscellaneous](#miscellaneous)
-  - [Performance](#performance)
-  - [Parallel Shells](#parallel-shells)
-  - [Containers](#containers)
-  - [Environment Management](#environment-management)
-  - [Visualization](#visualization)
-  - [Parallel Filesystems](#parallel-filesystems)
-  - [Programming Languages](#programming-languages)
-  - [Journals](#journals)
-  - [Podcasts](#podcasts)
-  - [Blogs](#blogs)
-  - [Conferences](#conferences)
-  - [User Groups](#user-groups)
-  - [Training](#training)
-  - [References](#references)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
 # Awesome HPC
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
