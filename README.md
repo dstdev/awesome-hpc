@@ -43,7 +43,7 @@ This is a repository of [Free](https://en.wikipedia.org/wiki/Free_software) and 
 - [Cobbler](https://cobbler.github.io/) - Cobbler is a Linux installation server that allows for rapid setup of network installation environments ([Source Code](https://github.com/cobbler/cobbler)) `GPL-2.0`.
 - [Bright](https://www.nvidia.com/en-us/data-center/bright-cluster-manager/) - Bright Cluster Manager allows administrator to quickly build and manage heterogeneous clusters `Proprietary`.
 - [Scyld](https://www.penguinsolutions.com/computing/products/software/scyld-clusterware/) - Scyld Clusterware Scyld ClusterWare is developed based on the continuing evolution of Beowulf clusters first developed at NASA in the 1990s `Proprietary`.
-- [BlueBanquise](https://bluebanquise.com) - BlueBanquise is an open source cluster deployment and management stack built on Python and Ansible ([Repo](https://github.com/bluebanquise/bluebanquise)) `MIT`.
+- [BlueBanquise](https://bluebanquise.com) - BlueBanquise is an open source cluster deployment and management stack built on Python and Ansible ([Source Code](https://github.com/bluebanquise/bluebanquise)) `MIT`.
 
 ## Workload Managers
 - [Slurm](https://slurm.schedmd.com/documentation.html) - A free and open source job scheduler ([Source Code](https://github.com/SchedMD/slurm)) `OSS`.
