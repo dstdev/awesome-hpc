@@ -11,7 +11,6 @@ This is a repository of [Free](https://en.wikipedia.org/wiki/Free_software) and 
   
 - [Provisioning](#provisioning)
 - [Workload Managers](#workload-managers)
-- [Resource Manager](#resource-manager)
 - [Pipelines](#pipelines)
 - [Applications](#applications)
 - [Compilers](#compilers)
@@ -55,8 +54,6 @@ This is a repository of [Free](https://en.wikipedia.org/wiki/Free_software) and 
 - [Volcano](https://volcano.sh/) - Volcano is a batch system built on Kubernetes `Apache-2.0`.
 - [Maui](https://www.mhpcc.hpc.mil/) - Maui is a workload management and job scheduler `other`.
 - [Kube Batch](https://github.com/kubernetes-sigs/kube-batch) - A batch scheduler of kubernetes for high performance workload, e.g. AI/ML, BigData, HPC `Apache-2.0`.
-
-## Resource Manager
 - [OpenPBS](https://www.openpbs.org/) - OpenPBS® software optimizes job scheduling and workload management in high-performance computing (HPC) environments ([Source Code](https://github.com/openpbs/openpbs)) `other`.
 
 ## Pipelines
