@@ -30,8 +30,6 @@ This is a repository of [Free](https://en.wikipedia.org/wiki/Free_software) and 
 - [Blogs](#blogs)
 - [Conferences](#conferences)
 - [User Groups](#user-groups)
-- [Contributing](#contributing)
-- [License](#license)
 
 </details>
 
@@ -173,7 +171,3 @@ This is a repository of [Free](https://en.wikipedia.org/wiki/Free_software) and 
 ## Contributing
 
 Contributing guidelines can be found in [contributing.md](contributing.md).
-
-%%## License
-
-This list is under the [Creative Commons Attribution-ShareAlike 3.0 Unported](LICENSE) License.
