@@ -30,7 +30,8 @@ This is a repository of [Free](https://en.wikipedia.org/wiki/Free_software) and 
 - [Blogs](#blogs)
 - [Conferences](#conferences)
 - [User Groups](#user-groups)
-- [Training](#training)
+- [Contributing](#contributing)
+- [License](#license)
 
 </details>
 
@@ -169,5 +170,10 @@ This is a repository of [Free](https://en.wikipedia.org/wiki/Free_software) and 
 ## User Groups
 - [MVAPICH](https://mug.mvapich.cse.ohio-state.edu/) - The MUG conference provides an open forum for all attendees (users, system administrators, researchers, engineers, and students) to discuss and share their knowledge on using MVAPICH libraries.
 
-## Training
-- [Exascale Computing Project Training](https://www.exascaleproject.org/training-events/)
+## Contributing
+
+Contributing guidelines can be found in [contributing.md](contributing.md).
+
+%%## License
+
+This list is under the [Creative Commons Attribution-ShareAlike 3.0 Unported](LICENSE) License.
