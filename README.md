@@ -97,6 +97,7 @@ This is a repository of [Free](https://en.wikipedia.org/wiki/Free_software) and 
 - [Open XDMod](https://open.xdmod.org) - Open XDMoD is an open source tool to facilitate the management of high performance computing resources ([Source Code](https://github.com/ubccr/xdmod/)) `LGPL-3`.
 - [Coldfront](https://coldfront.readthedocs.io/en/latest/) - ColdFront is an open source resource allocation system designed to provide a central portal for administration, reporting, and measuring scientific impact of HPC resources ([Source Code](https://github.com/ubccr/coldfront)) `GPL-3`.
 - [Pavilion2](https://pavilion2.readthedocs.io/) - Pavilion is a Python 3 (3.6+) based framework for running and analyzing tests targeting HPC systems ([Source Code](https://github.com/hpc/pavilion2)) `other`.
+- [GoSlmailer](https://github.com/CLIP-HPC/goslmailer) - Goslmailer is a drop-in notification delivery solution for slurm that can do slack, mattermost, teams, and more.
 
 ## Performance
 - [TotalView](https://totalview.io/products/totalview) - TotalView is a debugging tool for HPC applications `Proprietary`.
