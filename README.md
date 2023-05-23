@@ -117,6 +117,7 @@ This is a repository of [Free](https://en.wikipedia.org/wiki/Free_software) and 
 - [uDocker](https://indigo-dc.github.io/udocker/) - A basic user tool to execute simple docker containers in batch or interactive systems without root privileges ([Source Code](https://github.com/indigo-dc/udocker)) `Apache-2.0`.
 - [Shifter](https://www.nersc.gov/research-and-development/user-defined-images/) -  Shifter is Linux containers for HPC ([Source Code](https://github.com/NERSC/shifter)) `other`.
 - [HPC Container Maker](https://github.com/NVIDIA/hpc-container-maker) - HPC Container Maker is an open source tool to make it easier to generate container specification files. `Apache-20`.
+- [Scarus](https://github.com/eth-cscs/sarus) - An OCI-compatible container engine for HPC. `BSD`
 
 ## Environment Management
 - [Lmod](https://lmod.readthedocs.io/en/latest/) - Lmod: An Environment Module System based on Lua, Reads TCL Modules, Supports a Software Hierarchy ([Source Code](https://github.com/TACC/Lmod)) `other`.
