@@ -29,8 +29,8 @@ High Performance Computing tools and resources for engineers and administrators.
 - [Journals](#journals)
 - [Podcasts](#podcasts)
 - [Blogs](#blogs)
-- [Websites](#websites)
 - [Conferences](#conferences)
+- [Websites](#websites)
 - [User Groups](#user-groups)
 
 </details>
@@ -171,7 +171,7 @@ High Performance Computing tools and resources for engineers and administrators.
 
 ## Websites
 
-- [Top500](https://top500.org) - he TOP500 project ranks and details the 500 most powerful non-distributed computer systems in the world.
+- [Top500](https://top500.org) - The TOP500 project ranks and details the 500 most powerful non-distributed computer systems in the world.
 
 ## User Groups
 - [MVAPICH](https://mug.mvapich.cse.ohio-state.edu/) - The MUG conference provides an open forum for all attendees (users, system administrators, researchers, engineers, and students) to discuss and share their knowledge on using MVAPICH libraries.
