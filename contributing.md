@@ -12,12 +12,12 @@ When your contribution is accepted you can add the Awesome Uno Platform Badge to
 thus signaling the quality of your work and linking to others authors Awesome projets
 
  <a href="https://https://github.com/dstdev/awesome-hpc">
-  <img alt="Awesome Uno Platform" src="https://img.shields.io/badge/Awesome-HPC-blue.svg?longCache=true&style=flat-square" />
+  <img alt="Awesome HPC" src="https://img.shields.io/badge/Awesome-HPC-blue.svg?longCache=true&style=flat-square" />
  </a>
  
 ```html
  <a href="https://https://github.com/dstdev/awesome-hpc">
-  <img alt="Awesome Uno Platform" src="https://img.shields.io/badge/Awesome-HPC-blue.svg?longCache=true&style=flat-square" />
+  <img alt="Awesome HPC" src="https://img.shields.io/badge/Awesome-HPC-blue.svg?longCache=true&style=flat-square" />
  </a>
 ```
  
