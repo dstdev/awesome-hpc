@@ -113,7 +113,7 @@ High Performance Computing tools and resources for engineers and administrators.
 - [ClusterShell](https://clustershell.readthedocs.io/en/latest/intro.html) - Scalable cluster administration Python framework ([Source Code](https://github.com/cea-hpc/clustershell)) `LGPL-2.1` .
 
 ## Containers
-- [Singularity](https://sylabs.io/singularity/) - Singularity is an open source container system ([Source Code](https://github.com/hpcng/singularity)) `BSD`.
+- [Apptainer](https://apptainer.org) - Apptainer is an open source container system ([Source Code](https://github.com/apptainer/apptainer)) `BSD`.
 - [Charliecloud](https://hpc.github.io/charliecloud/) - Charliecloud provides user-defined software stacks (UDSS) for high-performance computing (HPC) centers ([Source Code](https://github.com/hpc/charliecloud)) `Apache-2.0`.
 - [Docker](https://www.docker.com/) - Docker is a set of platform as a service products that use OS-level virtualization to deliver software in packages called containers `other`.
 - [uDocker](https://indigo-dc.github.io/udocker/) - A basic user tool to execute simple docker containers in batch or interactive systems without root privileges ([Source Code](https://github.com/indigo-dc/udocker)) `Apache-2.0`.
