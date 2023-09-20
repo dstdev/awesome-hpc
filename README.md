@@ -120,6 +120,7 @@ High Performance Computing tools and resources for engineers and administrators.
 - [Shifter](https://www.nersc.gov/research-and-development/user-defined-images/) -  Shifter is Linux containers for HPC ([Source Code](https://github.com/NERSC/shifter)) `other`.
 - [HPC Container Maker](https://github.com/NVIDIA/hpc-container-maker) - HPC Container Maker is an open source tool to make it easier to generate container specification files. `Apache-20`.
 - [Scarus](https://github.com/eth-cscs/sarus) - An OCI-compatible container engine for HPC `BSD`.
+- [Singularity HPC](https://singularity-hpc.readthedocs.io) - Singularity Registry HPC (shpc) allows you to install containers as modules ([Source Code](https://github.com/singularityhub/singularity-hpc)) `MPL 2.0`.
 
 ## Environment Management
 - [Lmod](https://lmod.readthedocs.io/en/latest/) - Lmod: An Environment Module System based on Lua, Reads TCL Modules, Supports a Software Hierarchy ([Source Code](https://github.com/TACC/Lmod)) `other`.
@@ -129,7 +130,7 @@ High Performance Computing tools and resources for engineers and administrators.
 
 ## Visualization
 - [Visit](https://visit-dav.github.io/visit-website/) - VisIt - Visualization and Data Analysis for Mesh-based Scientific Data ([Source Code](https://github.com/visit-dav/visit)) `BSD-3`.
-- [Paraview](https://www.paraview.org/) - ParaView is an open-source, multi-platform data analysis and visualization application based on Visualization Toolkit (VTK) `ParaView License Version ([Source Code](https://github.com/Kitware/ParaView)) 1.2`.
+- [Paraview](https://www.paraview.org/) - ParaView is an open-source, multi-platform data analysis and visualization application based on Visualization Toolkit (VTK) ([Source Code](https://github.com/Kitware/ParaView)) `BSD-3`.
 
 ## Parallel Filesystems
 - [GPFS](https://www.ibm.com/docs/en/gpfs/4.1.0.4?topic=guide-introducing-general-parallel-file-system) - GPFS is a high-performance clustered file system software developed by IBM `Proprietary`.
