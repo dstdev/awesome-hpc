@@ -178,7 +178,7 @@ High Performance Computing tools and resources for engineers and administrators.
 
 ## User Groups
 - [MVAPICH](https://mug.mvapich.cse.ohio-state.edu/) - The MUG conference provides an open forum for all attendees (users, system administrators, researchers, engineers, and students) to discuss and share their knowledge on using MVAPICH libraries.
-- [Slurm](https://slurm.schedmd.com/slurm_ug_agenda.html) - The annual Slurm user group
+- [Slurm](https://slurm.schedmd.com/slurm_ug_agenda.html) - The annual Slurm user group meeting.
 
 ## Contributing
 
