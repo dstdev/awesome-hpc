@@ -168,6 +168,9 @@ High Performance Computing tools and resources for engineers and administrators.
 - [Supercomputing (SC)](https://supercomputing.org/) - The International Conference for High Performance Computing, Networking, Storage, and Analysis.
 - [Supercomputing International (ISC)](https://www.isc-hpc.com/) - The International Conference for High Performance Computing, Networking, Storage, and Analysis.
 - [CCGrid](https://dl.acm.org/conference/ccgrid) - IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing.
+- [IEEE-HPEC](https://ieee-hpec.org/) - IEEE High Performance Embedded Computing.
+- [Hot Chips](https://hotchips.org) - Semiconductor industry's leading conference on high-performance microprocessors and related circuits.
+- [Hot Interconnects](https://hoti.org) - IEEE conference on software architectures and implementations for interconnection networks of all scales.
 
 ## Websites
 
@@ -175,6 +178,7 @@ High Performance Computing tools and resources for engineers and administrators.
 
 ## User Groups
 - [MVAPICH](https://mug.mvapich.cse.ohio-state.edu/) - The MUG conference provides an open forum for all attendees (users, system administrators, researchers, engineers, and students) to discuss and share their knowledge on using MVAPICH libraries.
+- [Slurm](https://slurm.schedmd.com/slurm_ug_agenda.html) - The annual Slurm user group
 
 ## Contributing
 
