@@ -173,7 +173,7 @@ High Performance Computing tools and resources for engineers and administrators.
 - [Hot Chips](https://hotchips.org) - Semiconductor industry's leading conference on high-performance microprocessors and related circuits.
 - [Hot Interconnects](https://hoti.org) - IEEE conference on software architectures and implementations for interconnection networks of all scales.
 - [ESSA](https://sites.google.com/view/essa-2024/) - Workshop on Extreme-Scale Storage and Analysis.
-- IEEE-IPDPS](https://www.ipdps.org/) - IEEE International Parallel & Distributed Processing Symposium.
+- [IEEE-IPDPS](https://www.ipdps.org/) - IEEE International Parallel & Distributed Processing Symposium.
 
 ## Websites
 
