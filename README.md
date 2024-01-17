@@ -189,7 +189,7 @@ High Performance Computing tools and resources for engineers and administrators.
 - [Hot Interconnects](https://hoti.org) - IEEE conference on software architectures and implementations for interconnection networks of all scales.
 - [ESSA](https://sites.google.com/view/essa-2024/) - Workshop on Extreme-Scale Storage and Analysis.
 - [IEEE-IPDPS](https://www.ipdps.org/) - IEEE International Parallel & Distributed Processing Symposium.
-- [ESPM2 Workshop](http://nowlab.cse.ohio-state.edu/espm2/) - nternational Workshop on Extreme Scale Programming Models and Middleware.
+- [ESPM2 Workshop](http://nowlab.cse.ohio-state.edu/espm2/) - International Workshop on Extreme Scale Programming Models and Middleware.
 - [LCI Workshops](https://linuxclustersinstitute.org/workshops/) - The Linux Clusters Institute (LCI) is providing education and advanced technical training for the deployment and use of computing clusters to the high performance computing community worldwide.
 - [HPC Carpentry](https://www.hpc-carpentry.org/) - Teaching basic skills for high-performance computing.
 
