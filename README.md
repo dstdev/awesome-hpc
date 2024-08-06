@@ -109,7 +109,8 @@ High Performance Computing tools and resources for engineers and administrators.
 - [TotalView](https://totalview.io/products/totalview) - TotalView is a debugging tool for HPC applications `Proprietary`.
 - [Tau](https://www.cs.uoregon.edu/research/tau/home.php) - TAU Performance System® is a portable profiling and tracing toolkit for performance analysis of parallel programs written in Fortran, C, C++, UPC, Java, Python `other`.
 - [Valgrind](https://www.valgrind.org/) - Valgrind is a tool designed to profile programs to determine memory leaks ([Source Code](https://sourceware.org/git/?p=valgrind.git)) `GPL-2`.
-- [Paraver](https://tools.bsc.es/paraver) - Paraver is a very flexible data browser that is part of the CEPBA-Tools toolkit `other`.
+- [Paraver](https://tools.bsc.es/paraver) - Paraver is a very flexible data browser that is part of the BSC-Tools toolkit `other`.
+- [Extrae](https://tools.bsc.es/extrae) - Extrae is a tracer that supports multiple programming models like MPI and OpenMP. The generated traces can be viewed using [Paraver](https://tools.bsc.es/paraver) `other`. 
 - [PAPI](http://icl.cs.utk.edu/papi) - Performance Application Programming Interface (PAPI) is a performance analysis tool ([Source Code](https://bitbucket.org/icl/papi/src/master/)) `other`.
 
 ## Parallel Shells
