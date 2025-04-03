@@ -53,6 +53,7 @@ High Performance Computing tools and resources for engineers and administrators.
 - [Torque](https://en.wikipedia.org/wiki/TORQUE) - Torque is a workload management and job scheduler `other`.
 - [OpenLava](https://en.wikipedia.org/wiki/OpenLava) - OpenLava is a workload management and job scheduler `other`.
 - [UGE/SGE](https://en.wikipedia.org/wiki/Univa_Grid_Engine) - Univa Grid Engine is a workload management engine for HPC `Proprietary`.
+- [OCS/GCS](https://www.hpc-gridware.com/gridware-cluster-scheduler/) - Open Cluster Scheduler ([Source Code](https://github.com/hpc-gridware/clusterscheduler)) and Gridware Cluster Scheduler are "Sun Grid Engine" compatible HPC workload managers `other`
 - [Volcano](https://volcano.sh/) - Volcano is a batch system built on Kubernetes `Apache-2.0`.
 - [Maui](https://www.mhpcc.hpc.mil/) - Maui is a workload management and job scheduler `other`.
 - [Kube Batch](https://github.com/kubernetes-sigs/kube-batch) - A batch scheduler of kubernetes for high performance workload, e.g. AI/ML, BigData, HPC `Apache-2.0`.
