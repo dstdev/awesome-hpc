@@ -104,6 +104,7 @@ High Performance Computing tools and resources for engineers and administrators.
 - [Reframe](https://reframe-hpc.readthedocs.io/en/stable/) - A powerful Python framework for writing and running portable regression tests and benchmarks for HPC systems. ([Source Code](https://github.com/reframe-hpc/reframe)) `BSD-3`.
 - [OLCF Test Harness](https://olcf.github.io/olcf-test-harness/) - The OLCF Test Harness (OTH) helps automate the testing of applications, tools, and other system software ([Source Code](https://github.com/olcf/olcf-test-harness)) `other`. 
 - [GoSlmailer](https://github.com/CLIP-HPC/goslmailer) - Goslmailer is a drop-in notification delivery solution for slurm that can do slack, mattermost, teams, and more.
+- [OKA](https://oka.how/) - OKA is an analytics and reporting tool for HPC schedulers. It helps administrators and users to understand how compute resources are used, and optimize their usage `Proprietary`.
 
 ## Performance
 - [TotalView](https://totalview.io/products/totalview) - TotalView is a debugging tool for HPC applications `Proprietary`.
