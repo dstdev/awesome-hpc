@@ -17,6 +17,7 @@ High Performance Computing tools and resources for engineers and administrators.
 - [Compilers](#compilers)
 - [MPI](#mpi)
 - [Parallel Computing](#parallel-computing)
+- [GPU Computing](#gpu-computing)
 - [Benchmarking](#benchmarking)
 - [Miscellaneous](#miscellaneous)
 - [Performance](#performance)
@@ -85,6 +86,48 @@ High Performance Computing tools and resources for engineers and administrators.
 - [ArrayFire](https://arrayfire.org/docs/index.htm) - A general purpose tensor library that simplifies the process of software development for parallel architectures `other`.
 - [OpenMP](https://www.openmp.org/) - OpenMP is an application programming interface that supports multi-platform shared-memory multiprocessing programming `other`.
 
+## GPU Computing
+### GPU Programming Frameworks
+
+* [CUDA](https://developer.nvidia.com/cuda-toolkit) - NVIDIA's parallel computing platform and programming model for GPU acceleration `Proprietary`.
+* [ROCm](https://rocm.docs.amd.com/) - AMD's open-source software platform for GPU computing supporting HIP, OpenMP, and OpenCL ([Source Code](https://github.com/ROCm/ROCm)) `MIT`.
+* [HIP](https://rocm.docs.amd.com/projects/HIP/en/latest/) - Heterogeneous-compute Interface for Portability - portable GPU programming for AMD and NVIDIA ([Source Code](https://github.com/ROCm/HIP)) `MIT`.
+* [oneAPI](https://www.intel.com/content/www/us/en/developer/tools/oneapi/overview.html) - Intel's unified programming model for CPUs, GPUs, and accelerators supporting SYCL and DPC++ `Proprietary`.
+* [OpenCL](https://www.khronos.org/opencl/) - Open standard for cross-platform parallel programming of heterogeneous systems `Apache-2.0`.
+* [SYCL](https://www.khronos.org/sycl/) - High-level C++ abstraction for heterogeneous computing built on OpenCL `Apache-2.0`.
+* [Kokkos](https://kokkos.org/) - Performance portable programming model for HPC applications across different architectures ([Source Code](https://github.com/kokkos/kokkos)) `Apache-2.0`.
+* [RAJA](https://raja.readthedocs.io/) - Portable abstraction layer for HPC codes supporting CUDA, HIP, OpenMP ([Source Code](https://github.com/LLNL/RAJA)) `BSD-3`.
+* [OpenACC](https://www.openacc.org/) - Directive-based programming standard for parallel computing with GPUs and multicore CPUs `other`.
+
+
+### GPU Libraries
+
+* [cuBLAS](https://developer.nvidia.com/cublas) - NVIDIA's GPU-accelerated BLAS (Basic Linear Algebra Subprograms) library `Proprietary`.
+* [cuDNN](https://developer.nvidia.com/cudnn) - NVIDIA's GPU-accelerated library for deep neural networks `Proprietary`.
+* [cuFFT](https://developer.nvidia.com/cufft) - NVIDIA's Fast Fourier Transform library for GPUs `Proprietary`.
+* [cuSPARSE](https://developer.nvidia.com/cusparse) - NVIDIA's GPU-accelerated library for sparse matrix operations `Proprietary`.
+* [rocBLAS](https://rocm.docs.amd.com/projects/rocBLAS/en/latest/) - AMD's GPU-accelerated BLAS implementation ([Source Code](https://github.com/ROCm/rocBLAS)) `MIT`.
+* [rocFFT](https://rocm.docs.amd.com/projects/rocFFT/en/latest/) - AMD's Fast Fourier Transform library for GPUs ([Source Code](https://github.com/ROCm/rocFFT)) `MIT`.
+* [MIOpen](https://rocm.docs.amd.com/projects/MIOpen/en/latest/) - AMD's library for high-performance machine learning primitives ([Source Code](https://github.com/ROCm/MIOpen)) `MIT`.
+* [NCCL](https://developer.nvidia.com/nccl) - NVIDIA Collective Communications Library for multi-GPU communication ([Source Code](https://github.com/NVIDIA/nccl)) `BSD-3`.
+* [RCCL](https://rocm.docs.amd.com/projects/rccl/en/latest/) - AMD's collective communications library for multi-GPU ([Source Code](https://github.com/ROCm/rccl)) `MIT`.
+* [Thrust](https://thrust.github.io/) - C++ parallel algorithms library built on CUDA ([Source Code](https://github.com/NVIDIA/thrust)) `Apache-2.0`.
+* [oneMKL](https://www.intel.com/content/www/us/en/developer/tools/oneapi/onemkl.html) - Intel's oneAPI Math Kernel Library for optimized math routines ([Source Code](https://github.com/oneapi-src/oneMKL)) `Apache-2.0`.
+
+
+### GPU Tools & Utilities
+
+* [NVIDIA HPC SDK](https://developer.nvidia.com/hpc-sdk) - Comprehensive suite of compilers, libraries and tools for HPC `Proprietary`.
+* [nvidia-smi](https://developer.nvidia.com/nvidia-system-management-interface) - NVIDIA System Management Interface for monitoring and managing GPU devices `Proprietary`.
+* [rocm-smi](https://rocm.docs.amd.com/projects/rocm_smi_lib/en/latest/) - ROCm System Management Interface for AMD GPUs ([Source Code](https://github.com/ROCm/rocm_smi_lib)) `MIT`.
+* [DCGM](https://developer.nvidia.com/dcgm) - NVIDIA Data Center GPU Manager for cluster management ([Source Code](https://github.com/NVIDIA/DCGM)) `Apache-2.0`.
+* [HIPIFY](https://rocm.docs.amd.com/projects/HIPIFY/en/latest/) - Tool to convert CUDA code to portable HIP code ([Source Code](https://github.com/ROCm/HIPIFY)) `MIT`.
+* [Nsight Systems](https://developer.nvidia.com/nsight-systems) - System-wide performance analysis tool for NVIDIA GPUs `Proprietary`.
+* [Nsight Compute](https://developer.nvidia.com/nsight-compute) - Interactive kernel profiler for CUDA applications `Proprietary`.
+* [rocprof](https://rocm.docs.amd.com/projects/rocprofiler/en/latest/) - Profiling tool for HIP applications on AMD GPUs ([Source Code](https://github.com/ROCm/rocprofiler)) `MIT`.
+* [Intel VTune Profiler](https://www.intel.com/content/www/us/en/developer/tools/oneapi/vtune-profiler.html) - Performance profiler for CPU, GPU, and FPGA `Proprietary`.
+* [Omniperf](https://rocm.docs.amd.com/projects/omniperf/en/latest/) - AMD's system performance profiling tool for machine learning/HPC workloads ([Source Code](https://github.com/ROCm/omniperf)) `MIT`.
+  
 ## Benchmarking
 - [OSU Benchmarks](https://mvapich.cse.ohio-state.edu/benchmarks/) - A collection of benchmarking tools for MPI developed by Ohio State University `other`.
 - [Intel MPI Benchmarks](https://software.intel.com/content/www/us/en/develop/articles/intel-mpi-benchmarks.html) - A set of benchmarks developed by Intel for use with their Intel MPI `other`.
