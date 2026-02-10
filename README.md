@@ -66,6 +66,8 @@ High Performance Computing tools and resources for engineers and administrators.
 ## Applications
 - [Spack](https://spack.io) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers ([Source Code](https://github.com/spack/spack)) `other`.
 - [EasyBuild](https://easybuild.io/) -  EasyBuild - building software with ease ([Source Code](https://github.com/easybuilders/easybuild)) `GPL-2`.
+- [TurkishSieve](https://github.com/bilgisofttr/turkishsieve) — GPU-accelerated segmented sieve for twin & cousin primes (trillion-scale throughput).
+
 
 ## Compilers
 - [Nvidia](https://developer.nvidia.com/hpc-compilers) - NVIDIA HPC compiler suite for Fortran, C/C++ with OpenACC `Proprietary`.
