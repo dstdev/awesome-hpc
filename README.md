@@ -66,6 +66,7 @@ High Performance Computing tools and resources for engineers and administrators.
 ## Applications
 - [Spack](https://spack.io) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers ([Source Code](https://github.com/spack/spack)) `other`.
 - [EasyBuild](https://easybuild.io/) -  EasyBuild - building software with ease ([Source Code](https://github.com/easybuilders/easybuild)) `GPL-2`.
+- [MFC](https://mflowcode.github.io/) - Exascale multiphase compressible flow solver; scales to 43K+ GPUs on Frontier and El Capitan ([Source Code](https://github.com/MFlowCode/MFC)) `MIT`.
 
 ## Compilers
 - [Nvidia](https://developer.nvidia.com/hpc-compilers) - NVIDIA HPC compiler suite for Fortran, C/C++ with OpenACC `Proprietary`.
