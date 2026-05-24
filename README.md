@@ -45,6 +45,7 @@ High Performance Computing tools and resources for engineers and administrators.
 - [Base Command Manager](https://docs.nvidia.com/base-command-manager/index.html) - Base Command Manager allows administrator to quickly build and manage heterogeneous clusters `Proprietary`.
 - [Scyld](https://www.penguinsolutions.com/computing/products/software/scyld-clusterware/) - Scyld Clusterware Scyld ClusterWare is developed based on the continuing evolution of Beowulf clusters first developed at NASA in the 1990s `Proprietary`.
 - [BlueBanquise](https://bluebanquise.com) - BlueBanquise is an open source cluster deployment and management stack built on Python and Ansible ([Source Code](https://github.com/bluebanquise/bluebanquise)) `MIT`.
+- [hpc-slurm-lab](https://github.com/revengator/hpc-slurm-lab) - Minimal modern SLURM cluster on Docker Compose for local HPC testing on a laptop. Includes Lmod and EasyBuild preinstalled, runs on Apple Silicon and Linux x86_64 with optional NVIDIA GPU `MIT`.
 
 ## Workload Managers
 - [Slurm](https://slurm.schedmd.com/documentation.html) - A free and open source job scheduler ([Source Code](https://github.com/SchedMD/slurm)) `OSS`.
