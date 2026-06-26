@@ -162,6 +162,9 @@ High Performance Computing tools and resources for engineers and administrators.
 - [Lustre Exporter](https://github.com/GSI-HPC/lustre_exporter) - Prometheus exporter for use with the Lustre parallel filesystem `GPL-3.0`.
 - [DCGM Exporter](https://github.com/NVIDIA/dcgm-exporter) - NVIDIA GPU metrics exporter for Prometheus leveraging DCGM `Apache-2.0`.
 
+### Terminal
+- [lazyslurm](https://github.com/hill/lazyslurm) - A lazygit-style terminal UI for Slurm. Monitor jobs, tail logs, and inspect nodes and partitions `MIT`.
+
 ## Journals
 - [Journal of Super Computing](https://www.springer.com/journal/11227) - An International Journal of High-Performance Computer Design, Analysis, and Use.
 
