@@ -111,6 +111,7 @@ High Performance Computing tools and resources for engineers and administrators.
 - [Valgrind](https://www.valgrind.org/) - Valgrind is a tool designed to profile programs to determine memory leaks ([Source Code](https://sourceware.org/git/?p=valgrind.git)) `GPL-2`.
 - [Paraver](https://tools.bsc.es/paraver) - Paraver is a very flexible data browser that is part of the CEPBA-Tools toolkit `other`.
 - [PAPI](http://icl.cs.utk.edu/papi) - Performance Application Programming Interface (PAPI) is a performance analysis tool ([Source Code](https://bitbucket.org/icl/papi/src/master/)) `other`.
+- [server-spy](https://lennart-rth.github.io/server-spy/) - A monitoring tool for multi-run experiments on shared servers. It tracks congestion (PSI, scheduler wait) and shows how much specific runs got slowed down by other users' jobs, helping researchers identify skewed experiment comparisons ([Source Code](https://github.com/lennart-rth/server-spy)) `MIT`.
 
 ## Parallel Shells
 - [pdsh](https://linux.die.net/man/1/pdsh) - pdsh runs terminal commands across multiple hosts in parallel ([Source Code](https://github.com/chaos/pdsh)) `GPL-2`.
